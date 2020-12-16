@@ -1,0 +1,71 @@
+{
+    "description": "A portfolio theme with a blog",
+    "color_scheme": "light",
+    "accent_color": "pink",
+    "header": {
+        "title": "Turahe",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Portfolio",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ]
+    },
+    "footer": {
+        "content": "Copyright &copy; Turahe. All rights reserved.",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/wach_1",
+                "style": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/wach_1",
+                "style": "icon",
+                "icon_class": "fa-instagram",
+                "new_window": true
+            },
+            {
+                "label": "Facebook",
+                "url": "https://facebook.com/nur.wachid",
+                "style": "icon",
+                "icon_class": "fa-facebook-f",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/nur-wachid/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "Turahe"
+}
